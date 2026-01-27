@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Carlos Gabriel 👋</h1>
+<h1 align="center">Olá! Eu sou o Carlos Gabriel </h1>
 
 <p align="center">
   Sou apaixonado por programação, matemática e tecnologia!  
