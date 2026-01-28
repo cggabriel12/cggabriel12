@@ -30,7 +30,6 @@ Atualmente praticando resolução de problemas no Beecrowd e desenvolvendo proje
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cggabriel12&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cggabriel12&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
